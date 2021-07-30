@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "orientatcc488de3f2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

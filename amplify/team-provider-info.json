@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-orientatcc-dev-153825-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553146294382:role/amplify-orientatcc-dev-153825-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553146294382:role/amplify-orientatcc-dev-153825-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-orientatcc-dev-153825-deployment",
+      "UnauthRoleName": "amplify-orientatcc-dev-153825-unauthRole",
+      "StackName": "amplify-orientatcc-dev-153825",
+      "StackId": "arn:aws:cloudformation:us-east-1:553146294382:stack/amplify-orientatcc-dev-153825/2aea88b0-f09c-11eb-995a-0ab49d07c7eb",
+      "AmplifyAppId": "d21o24c90788qg"
+    },
+    "categories": {
+      "auth": {
+        "orientatcc488de3f2": {}
+      }
+    }
+  }
+}
